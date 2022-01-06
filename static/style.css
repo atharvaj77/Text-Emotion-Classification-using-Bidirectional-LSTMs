@@ -1,0 +1,31 @@
+
+#main-part{
+    vertical-align: center;
+    text-align: middle;
+    margin-top: 50%;
+    height: 100%;
+    width: 100%;
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background:green;
+}
+
+.wpforms-form button[type=submit] {
+    background-color: #024488 !important;
+    border-color: #024488 !important;
+    color: #fff !important;
+}
+ 
+.wpforms-form button[type=submit]:hover {
+    background-color: #022B57 !important;
+}
+
+h1{
+    color: #022B57;
+}
